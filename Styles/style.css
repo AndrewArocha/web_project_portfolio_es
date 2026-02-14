@@ -550,6 +550,7 @@ font-weight: 600;
 
   .header__image {
     max-width: 100%;
+    order:-1;
   }
 
   .header__title {
