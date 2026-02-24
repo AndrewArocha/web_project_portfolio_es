@@ -19,4 +19,4 @@ The portfolio itself is built using semantic HTML, responsive CSS, and modular J
 
 The objective is to demonstrate practical problem-solving and structured code organization rather than reliance on frameworks.
 
-##https://andrewarocha.github.io/web_project_portfolio_es/
+## https://andrewarocha.github.io/web_project_portfolio_es/
